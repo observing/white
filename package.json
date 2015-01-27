@@ -1,0 +1,28 @@
+{
+  "name": "white",
+  "version": "1.0.0",
+  "description": "Whitespace processor for finn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/observing/white"
+  },
+  "keywords": [
+    "white",
+    "whitespace",
+    "finn",
+    "rework"
+  ],
+  "author": "Arnout Kazemier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/observing/white/issues"
+  },
+  "homepage": "https://github.com/observing/white",
+  "dependencies": {
+    "css-whitespace": "1.1.x"
+  }
+}
