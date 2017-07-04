@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/observing/white",
   "dependencies": {
-    "css-whitespace": "1.1.x"
+    "css-whitespace": "1.1.0"
   }
 }
